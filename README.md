@@ -41,3 +41,10 @@ appShellExam/
 
 
 ## Evidencia ![evidencia de sw trabajando](image.png)
+
+
+## ¿Cómo beneficia a los usuarios cargar rápido el App Shell aunque no haya conexión?
+El beneficio de que carge rapido un asi sin conexion a internet es que el usuario puede navegar por la aplicacion sin necesidad de tener internet, lo cual es muy util en lugares donde la conexion es inestable o no hay acceso a internet. Esto mejora la experiencia del usuario al permitirle acceder a la aplicacion de manera rapida y eficiente, incluso en condiciones adversas.
+
+## ¿Qué diferencia hay entre el shell y los productos dinámicos?
+El shell es la estructura fija de la aplicacion que incluye elementos como el encabezado, el menu de navegacion y el pie de pagina. Estos elementos permanecen constantes y se cargan rapidamente para proporcionar una experiencia de usuario fluida. Por otro lado, los productos dinamicos son el contenido que cambia dependiendo de la categoria seleccionada por el usuario (Papeleria, Electronica, Snacks). Estos productos se cargan de manera dinamica desde una fuente de datos (como un archivo JSON) y pueden variar en cantidad y detalles. En resumen, el shell proporciona la estructura y navegacion basica, mientras que los productos dinamicos ofrecen el contenido variable que los usuarios desean ver.
